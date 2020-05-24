@@ -1,2 +1,1 @@
 # goldfish
-baraye avvalin tajrobe
